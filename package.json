@@ -1,8 +1,8 @@
 {
-  "name": "@elfsquad/components",
+  "name": "",
   "version": "1.0.0",
-  "description": "React components to interact with the Elfsquad Product Configurator",
-  "author": "Elfsquad",
+  "description": "",
+  "author": "",
   "main": "index.js",
   "scripts": {
     "webpack": "webpack",
